@@ -56,6 +56,7 @@
                 {{-- コンテンツをここに入れるため、@yieldで空けておきます。 --}}
                 @yield('content')
             </main>
+            
         </div>
     </body>
 </html>
